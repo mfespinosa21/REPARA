@@ -14,4 +14,4 @@
 
 ## Next first move
 
-Run the mechanical test, document one defect, apply the persona-test improvement, and create the second deployment.
+Record the final live URL, export the packet and persona log to PDF, and rehearse the 3:30 demo.
