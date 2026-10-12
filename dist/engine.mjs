@@ -4,7 +4,7 @@ export function act(s,a){s=structuredClone(s);if(s.status==='stopped'&&a!=='rese
 if(a==='reset')return initial();
 if(a.startsWith('toggle:')){const k=a.slice(7);if(!['prior','gap','paid','scope','supervisor','capacity','criteria','help'].includes(k))return s;s[k]=!s[k];}
 else if(a==='start'||a==='resume'){if(reasons(s).length===0)s.status='active';else s.status='paused';}
-else if(a==='replace'){s.supervisor=true;message='Suplente disponible; revisar condiciones antes de reanudar';}
+else if(a==='replace'){s.supervisor=true;s.replacement=true;message='Suplente disponible; revisar condiciones antes de reanudar';}
 else if(a==='repeat'){s.repeat=true;s.shadowApproved=false;}
 else if(a==='shadow-stop'){s.status='stopped';message='Repetición: derivar a práctica formal o puesto junior';}
 else if(a==='shadow-clear'){s.shadowApproved=true;message='Coordinador simulado documenta que no hay trabajo continuo';}
