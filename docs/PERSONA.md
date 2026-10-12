@@ -21,7 +21,9 @@ Worst confusion: mixed green conditions and paused status. Severity: high. Chang
 Confusion: exception lacks structured justification. Severity: high. Logged as remaining limitation: this demo is an operator-controlled simulation, not authenticated human review. Production must capture reviewer identity, justification and pathway before permitting exception. Do not use prototype for real assignment approvals.
 
 ## Fix and verification
-Worst confusion corrected in source commit 848941b. JavaScript syntax check and coordinator regression suite passed. Corrected version redeployed; status verified through deployment response. Screenshot-based persona retest of revised screen is still pending. Four original captures prove visible states, not hidden behavior or a real hiring outcome.
+Worst confusion corrected in source commit 848941b. JavaScript syntax check and coordinator regression suite passed. Corrected version redeployed; status verified through deployment response. Screenshot-based retest completed on the revised recovery screen at 20:39:39. Four original captures prove visible states, not hidden behavior or a real hiring outcome.
 
-## What remains
-Ask Elena to inspect a new screenshot after failure and after replacement. Confirm she can distinguish blocked recovery from explicit permission to resume. No completed retest outcome is invented.
+## Retest · Revised screenshot · 20:39:39
+The same synthetic Elena inspected only the new actual screenshot; no clicks were performed.
+“Ahora sí entiendo: todas las condiciones ya están restauradas, Marco quedó como suplente y la tarea espera mi confirmación. Que siga pausada tiene sentido. Revisaría las condiciones y elegiría Confirmar condiciones y reanudar tarea.”
+Result: the worst comprehension confusion is resolved on this screen. The tester identifies the named substitute, reason for the pause and next action. Remaining minor doubt: why Assign substitute remains available after Marco is assigned. This retest does not prove absent-supervisor button behavior, successful resume or real-user usability. Automated state checks remain separate evidence. Shadow exception justification remains a prototype limitation.
