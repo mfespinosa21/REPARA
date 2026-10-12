@@ -12,3 +12,6 @@
 - No GitHub connector/credential provided; Sites source repository is not a github.com repository. Do not claim GitHub delivery.
 - BUILDCHAT is an execution record, not an export of the full conversation.
 Tomorrow's first move: open the live URL, capture screens, run the fresh-chat persona protocol, fix its worst confusion, then record the personal 3:30 demo and export this complete chat to PDF. Create/push a GitHub copy using the user's account before submission.
+
+## Follow-up correction
+GitHub is connected to mfespinosa21. The completed project was imported in five commits to the isolated first-proof-week9 branch of REPARA. main remains unchanged. These are import commits; original build chronology remains in Sites source history. Two deployments succeeded. Site remains owner-private pending explicit audience change.

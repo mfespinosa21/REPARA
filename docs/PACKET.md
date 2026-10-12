@@ -9,7 +9,7 @@ A first administrative experience fails when nobody owns supervision, review or 
 The coordinator can check existing evidence, identify the remaining gap and intended hiring decision, confirm payment/scope/supervision/review/help, start a bounded task, trigger supervisor failure, observe a blocked submission, replace or restore supervision, and resume only when every gate passes. Repeated work triggers separate human review. Stopping is always available. All data and AI output are labeled simulated.
 
 ## Image-generated mockup
-![Conceptual image-generated mockup](mockup.png)
+![Conceptual image-generated mockup](mockup.jpg)
 Image generation was requested before implementation. The conceptual screen is not evidence of functioning software.
 
 ## Flowchart
