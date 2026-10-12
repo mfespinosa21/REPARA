@@ -13,5 +13,5 @@
 - BUILDCHAT is an execution record, not an export of the full conversation.
 Tomorrow's first move: open the live URL, capture screens, run the fresh-chat persona protocol, fix its worst confusion, then record the personal 3:30 demo and export this complete chat to PDF. Create/push a GitHub copy using the user's account before submission.
 
-## Follow-up correction
-GitHub is connected to mfespinosa21. The completed project was imported in five commits to the isolated first-proof-week9 branch of REPARA. main remains unchanged. These are import commits; original build chronology remains in Sites source history. Two deployments succeeded. Site remains owner-private pending explicit audience change.
+## Screenshot persona pass · 11 October 2026
+Fresh-context synthetic Elena inspected four actual screenshots supplied by Fernanda. Worst confusion: all conditions Sí with paused status looks stale; green resume during supervisor failure implies permission. Fix: explicit recovered-but-awaiting-confirmation copy, named fictional replacement, renamed resume, disabled resume while any reason remains. Add payer and fictional payment timing. This is synthetic visual feedback, not real user research; final screenshot retest pending.
