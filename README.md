@@ -2,7 +2,7 @@
 
 This branch contains the Week 9 project. REPARA's main branch remains unchanged.
 
-Live app: https://first-proof-fernanda-w9.mafer212005.chatgpt.site (owner-private until sharing is enabled).
+Live app: https://first-proof-fernanda-w9.mafer212005.chatgpt.site (public access enabled 11 October 2026, Mexico City).
 
 ## Run
 Serve dist with any static HTTP server; open index.html. Run state checks with `node tests/engine.test.mjs`.
